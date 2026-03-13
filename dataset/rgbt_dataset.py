@@ -1,5 +1,4 @@
 import torch
-import cv2
 import os
 from torch.utils.data import Dataset
 
